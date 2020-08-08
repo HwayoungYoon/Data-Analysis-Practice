@@ -12,3 +12,25 @@ https://www.edwith.org/boostcourse-ds-kaggle/joinLectures/28022
 2. 사이킷런으로 머신러닝 흐름 알기
 3. 랜덤포레스트로 자전거 수요량 회귀 예측하기
 4. 다양한 모델 사용해 상위 5%이내 점수 얻기
+
+
+## Quiz 정리
+
+1. Pandas
+
+- 파이썬
+- describe
+> df[] \
+º 문자열
+
+2. describe
+
+데이터
+
+3. value
+
+value
+
+4. countplot
+
+seaborn
