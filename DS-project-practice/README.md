@@ -9,6 +9,7 @@ https://www.edwith.org/boostcourse-ds-511/joinLectures/28155
 
 ## 1. 분류모델 기초
 ### 1.1. 사이킷런과 머신러닝
+#### 1.1.1. 사이킷런 소개
 * 사이킷런이란?
 
 [사이킷런](https://scikit-learn.org/stable/)은 대표적인 파이썬 머신러닝 라이브러리입니다. 이 강의에서는 Classification(분류), Regression(회귀) 모델을 주로 사용합니다.
@@ -23,8 +24,11 @@ https://www.edwith.org/boostcourse-ds-511/joinLectures/28155
 
 크게는 정답이 있는 Classification(분류), Regression(회귀)와 같은 문제인 Supervised learning(지도학습)과 정답이 없는 Clustering(클러스터링), Dimensionality reduction(차원 축소)과 같은 문제를 해결하는 Unsupervised learning(비지도학습)으로 나뉩니다.
 
-#### 1.1.1. 사이킷런 소개
 #### 1.1.2 사이킷런 활용 흐름
+[사이킷런 슬라이드](https://github.com/amueller/odscon-2015)
+* 이 강의에서는 주로 트리 계열의 모델을 사용합니다.
+* Cross-validation 기법을 사용하여 어떤 parameter가 최적인지 찾습니다.
+
 #### 1.1.3 사이킷런의 의사결정나무 알고리즘 알아보기
 ### 1.2 의사결정나무로 간단한 분류 예측 모델 만들기
 #### 1.2.1 당뇨병 데이터셋 소개
