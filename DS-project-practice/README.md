@@ -32,6 +32,8 @@ https://www.edwith.org/boostcourse-ds-511/joinLectures/28155
 #### 1.1.3 사이킷런의 의사결정나무 알고리즘 알아보기
 ### 1.2 의사결정나무로 간단한 분류 예측 모델 만들기
 #### 1.2.1 당뇨병 데이터셋 소개
+[캐글에서 제공하고 있는 피마인디언 당뇨병 데이터](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+
 #### 1.2.2 학습과 예측을 위한 데이터셋 만들기
 #### 1.2.3 의사결정나무로 학습과 예측하기
 #### 1.2.4 예측한 모델의 성능 측정하기
